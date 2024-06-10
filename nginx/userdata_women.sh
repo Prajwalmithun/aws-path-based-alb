@@ -40,8 +40,8 @@ server {
     listen 80;
     server_name 127.0.0.1;  # Replace with your domain name or IP address
 
-    location /men {
-        rewrite ^/men$ /men.html permanent;
+    location /women {
+        rewrite ^/women$ /women.html permanent;
     }
 
     # Add other server configurations if needed
