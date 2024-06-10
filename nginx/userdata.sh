@@ -48,5 +48,5 @@ server {
 }
 EOF
 
-# Relaod the nginx 
-sudo sytemctl reload nginx
+# Restart the nginx 
+sudo sytemctl restart nginx
