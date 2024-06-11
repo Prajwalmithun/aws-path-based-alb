@@ -35,4 +35,4 @@ Commercial support is available at
 EOF
 
 # Restart the nginx 
-sudo sytemctl restart nginx
+sudo systemctl restart nginx
