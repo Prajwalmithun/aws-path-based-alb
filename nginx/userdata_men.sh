@@ -49,4 +49,4 @@ server {
 EOF
 
 # Restart the nginx 
-sudo sytemctl restart nginx
+sudo systemctl restart nginx
